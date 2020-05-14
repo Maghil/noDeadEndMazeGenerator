@@ -5,8 +5,9 @@ You can either download the entire unity package or copy the scripts
   **Remove dead ends**
 
 ### Stolen from
-    this [Repository](https://github.com/lonedevdotcom/MazeGenerator]) 
+ this [Repository](https://github.com/lonedevdotcom/MazeGenerator]) 
+  > Special thanks : @lonedevdotcom
 
 ### Code explanation
-    [youtube](https://www.youtube.com/watch?v=IrO4mswO2o4)
+   [youtube](https://www.youtube.com/watch?v=IrO4mswO2o4)
 
